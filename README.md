@@ -1,4 +1,4 @@
-#Projeto-de-compra-responsiva
+Projeto-de-compra-responsiva
 
 - Desafio feito a partir do site FronEnd Mentor.
 - Tive facilidade em criar o projeto sendo a maior dificuldade descobrir as cores corretas.
